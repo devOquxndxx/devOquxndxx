@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy devOquxndxx
 
-Soy un desarrollador Fullstack apasionado por la creación de soluciones digitales eficientes, escalables y modernas.  
+Soy un desarrollador Fullstack en proceso apasionado por la creación de soluciones digitales eficientes, escalables y modernas.  
 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que realmente aporten valor.
 
 Siempre estoy en búsqueda de herramientas que me permitan construir software robusto y elegante, tanto en el frontend como en el backend.
