@@ -38,6 +38,8 @@ Siempre estoy en búsqueda de herramientas que me permitan construir software ro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-AQUÍ)
 
 <!-- ⚠️ Recuerda reemplazar TU-USUARIO-AQUÍ con tu enlace real de LinkedIn -->
+## 🚀 Mi Portafolio
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-9cf?style=for-the-badge&logo=vercel&logoColor=black)](https://devOquxndxx.github.io/myPortafolio/)
 
 ---
 
