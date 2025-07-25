@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy devOquxndxx
+# 👋 ¡Hola! Soy Harlinson Oquendo
 
 Soy un desarrollador Fullstack en proceso apasionado por la creación de soluciones digitales eficientes, escalables y modernas.  
 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que realmente aporten valor.
