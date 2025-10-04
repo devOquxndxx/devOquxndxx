@@ -34,8 +34,8 @@ Siempre estoy en búsqueda de herramientas que me permitan construir software ro
 
 ---
 
-## 🌐 Conecta conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-AQUÍ)
+<!-- ## 🌐 Conecta conmigo: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-AQUÍ) -->
 
 <!-- ⚠️ Recuerda reemplazar TU-USUARIO-AQUÍ con tu enlace real de LinkedIn -->
 ## 🚀 Mi Portafolio (de prueba)
